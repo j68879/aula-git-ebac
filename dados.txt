@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome:Jackson
+-Profissão:Analista de Qualidade
+-Cidade:São Paulo
+-O que faz nas horas vaga: Assisto filmes e series
+-Feedback sobre o curso Qualidade de Software: Curso muito bom!
+-Feedback sobre a plataforma de estudo da EBAC: excelente plataforma
+
+Obrigado!!!
+
+
